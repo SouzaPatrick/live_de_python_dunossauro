@@ -2,6 +2,7 @@
 <p align="center">
   <img src="doc/statics/banner.jpg" title="hover text">
 </p>
+
 Este projeto tem o propósito de documentar os meus conhecimentos adiquiridos durante as aulas assistitadas no youtube no canal [Eduardo Mendes (Live de Python)](https://www.youtube.com/c/Dunossauro/featured) do [@dunossauro](https://www.instagram.com/dunossauro/)
 
 ## Antes de mais nada...
