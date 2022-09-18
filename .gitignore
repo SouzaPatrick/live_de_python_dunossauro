@@ -1,0 +1,13 @@
+#  cache 
+__pycache__/
+*.pyc
+
+# env
+venv/
+.venv/
+.env
+env
+
+# pytest
+.pytest_cache/
+report.xml
