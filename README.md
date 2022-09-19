@@ -6,7 +6,7 @@
 Este projeto tem o propósito de documentar os meus conhecimentos adiquiridos durante as aulas assistitadas no youtube no canal [Eduardo Mendes (Live de Python)](https://www.youtube.com/c/Dunossauro/featured) do [@dunossauro](https://www.instagram.com/dunossauro/)
 
 ## Antes de mais nada...
-1 - Cada aula abaixo possui sua expecificação, e possui dentro de cada pasta um arquivo `requirements.txt` com as libs necessárias para ela.
+1 - Cada aula abaixo possui sua especificação, e possui dentro de cada pasta um arquivo `requirements.txt` com as libs necessárias para ela.
 
 2 - Todos os códigos foram executados no POP OS 22.04
 
