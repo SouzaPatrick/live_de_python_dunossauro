@@ -34,7 +34,6 @@ def quadro():
 
 @fixture
 def quadro_parametrizado(request):
-    breakpoint()
     return Quadro()
 
 

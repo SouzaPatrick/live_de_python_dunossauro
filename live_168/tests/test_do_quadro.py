@@ -56,7 +56,8 @@ def test_quando_mover_cartao_ele_deve_ser_removido_da_coluna_anterior(
 
 @mark.exemplo
 def test_exemplo_para_brincar(factory_boy_test):
-    breakpoint()
+    ...
+
 
 @mark.parametrizado
 @mark.parametrize("quadro_parametrizado", [[1]], indirect=True)  # xpto
