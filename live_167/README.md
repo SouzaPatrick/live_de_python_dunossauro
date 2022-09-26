@@ -145,3 +145,6 @@ import sys
 def test_xfail_windowns():
   assert 1 == 2
 ```
+
+## Lives citadas:
+- [x] [Live de Python #168 - Pytest Fixtures](../live_168/README.md)

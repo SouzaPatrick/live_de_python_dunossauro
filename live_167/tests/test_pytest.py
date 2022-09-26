@@ -1,7 +1,7 @@
 import sys
 
-from codigo.jogo import brincadeira
 from pytest import mark
+from source.jogo import brincadeira
 
 """_O teste é formado por 3 etapas (GWT):
 - Given - Dado
