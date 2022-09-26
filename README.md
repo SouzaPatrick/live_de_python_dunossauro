@@ -15,4 +15,5 @@ Este projeto tem o propósito de documentar os meus conhecimentos adiquiridos du
 
 ## Lives
 [Pytest: Uma introdução - Live de Python #167](live_167/README.md)
-[Pytest Fixtures - Live de Python #168 - ](live_168/README.md)
+
+[Pytest Fixtures - Live de Python #168](live_168/README.md)
